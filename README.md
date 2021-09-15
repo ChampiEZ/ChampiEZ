@@ -1,16 +1,22 @@
-### Hi there 👋
+# Yo les girls :sparkles:
+ 
 
-<!--
-**ChampiEZ/ChampiEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Emoji Gif](parrot-merged.gif) **Je suis en A2 dans l'axe DW à l'école IIM** ![Emoji Gif](parrot-merged.gif)
 
-Here are some ideas to get you started:
+### A propos de moi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- :pushpin: Habite à **Paris** 
+- :books: Étudie à l'**IIM**
+- 👯 En attente de collaboration avec Nattan 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Mes Passions :
+
+- 😄 J'aime les jeux vidéos et la pétanque ...
+- ⚡ Fun fact: Je déteste les pâtes carbo
+
+### Ma devise :
+
+-  **Mettre la daronne à l'abri :sparkles:**
