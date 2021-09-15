@@ -9,7 +9,7 @@
 - :books: Étudie à l'**IIM**
 - 👯 En attente de collaboration avec *Nattan* 
 - :game_die: Joueur professionel **au Puissance 4**
-- 📫 How to reach me: adam.ammar@edu.devinci.fr
+- 📫 Comment me contacter : adam.ammar@edu.devinci.fr
 - 💬 Ask me about anything ...
 
 ### Mes Passions :
