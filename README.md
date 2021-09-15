@@ -7,15 +7,15 @@
 
 - :pushpin: Habite à **Paris** 
 - :books: Étudie à l'**IIM**
-- 👯 En attente de collaboration avec Nattan 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 En attente de collaboration avec *Nattan* 
+- :game_die: Joueur professionel **au Puissance 4**
+- 📫 How to reach me: adam.ammar@edu.devinci.fr
+- 💬 Ask me about anything ...
 
 ### Mes Passions :
 
 - 😄 J'aime les jeux vidéos et la pétanque ...
-- ⚡ Fun fact: Je déteste les pâtes carbo
+- ⚡ Fun fact: Je déteste les pâtes carbo *dsl*
 
 ### Ma devise :
 
