@@ -19,4 +19,4 @@
 
 ### Ma devise :
 
--  **Mettre la daronne à l'abri :sparkles:**
+-  **:sparkles: Make mom rich :sparkles:**
