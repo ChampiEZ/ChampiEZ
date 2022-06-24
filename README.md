@@ -10,7 +10,7 @@
 - 👯 En attente de collaboration avec *Nattan* 
 - :game_die: Joueur professionel **au Puissance 4**
 - 📫 Comment me contacter : adam.ammar@edu.devinci.fr
-- 💬 Ask me about anything ...
+- :eyes: *Mistergoat is watching you*
 
 ### Mes Passions :
 
