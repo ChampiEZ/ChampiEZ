@@ -1,7 +1,6 @@
-# Hello World ! :sparkles:
- 
+<h1 align="center">:sparkles: Hello World ! :sparkles:</h1>
 
-***Je suis en A2 dans l'axe DW à l'école IIM***
+*<h4 align="center"> Je m'appelle Adam et je suis en A2 </h4>*
 
 ## A propos de moi :
 
