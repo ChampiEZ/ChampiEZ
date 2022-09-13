@@ -7,7 +7,6 @@
 
 - :pushpin: Habite à **Paris** 
 - :books: Étudie à l'**IIM**
-- 👯 En attente de collaboration avec *Nattan* 
 - :game_die: Joueur professionel **au Puissance 4**
 - 📫 Comment me contacter : adam.ammar@edu.devinci.fr
 - :eyes: *Mistergoat is watching you*
