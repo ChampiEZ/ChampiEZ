@@ -1,7 +1,7 @@
 # Hello World ! :sparkles:
  
 
-![Emoji Gif](parrot-merged.gif) **Je suis en A2 dans l'axe DW à l'école IIM** ![Emoji Gif](parrot-merged.gif)
+***Je suis en A2 dans l'axe DW à l'école IIM***
 
 ## A propos de moi :
 
