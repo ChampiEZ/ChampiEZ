@@ -3,7 +3,7 @@
 
 ![Emoji Gif](parrot-merged.gif) **Je suis en A2 dans l'axe DW à l'école IIM** ![Emoji Gif](parrot-merged.gif)
 
-### A propos de moi :
+## A propos de moi :
 
 - :pushpin: Habite à **Paris** 
 - :books: Étudie à l'**IIM**
@@ -11,11 +11,16 @@
 - 📫 Comment me contacter : adam.ammar@edu.devinci.fr
 - :eyes: *Mistergoat is watching you*
 
-### Mes Passions :
+## Compétences :
+
+- ✅ HTML/SCSS/JS
+- 🔄 Suite Adobe et Office
+
+## Mes Passions :
 
 - 😄 J'aime les jeux vidéos et la pétanque ...
 - ⚡ Fun fact: Je déteste les pâtes carbo *dsl*
 
-### Ma devise :
+## Ma devise :
 
 -  **:sparkles: Make mom rich :sparkles:**
