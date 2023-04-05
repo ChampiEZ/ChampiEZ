@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate frontend developer from Paris ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champiez&label=Profile%20views&color=cd18c7&style=flat" alt="champiez" /> </p>
 
