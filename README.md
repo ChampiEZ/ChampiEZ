@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning **Symfony**
 
-- 👨‍💻 All of my projects are available at
-[https://portfolio-ammar-gs47h063s-champiez.vercel.app/](https://portfolio-ammar-gs47h063s-champiez.vercel.app/)
-
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **adam.ammar@edu.devinci.fr**
