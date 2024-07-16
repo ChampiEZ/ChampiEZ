@@ -66,16 +66,3 @@
 
 </details> <br>
 
-
-
-
-<p align="center">&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=champiez&show_icons=true&locale=en" alt="champiez" /></p>
-
-
-<style>
-    summary:hover {
-        text-decoration: underline;
-        cursor:pointer;
-    }
-</style>
